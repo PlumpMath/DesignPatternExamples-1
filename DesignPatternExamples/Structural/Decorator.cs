@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DesignPatternExamples
 {
-    public partial class Form1 : Form
+    public partial class Decorator : Form
     {
-        public Form1()
+        public Decorator()
         {
             InitializeComponent();
         }

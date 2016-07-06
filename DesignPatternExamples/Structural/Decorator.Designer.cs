@@ -1,6 +1,6 @@
 ﻿namespace DesignPatternExamples
 {
-    partial class Form1
+    partial class Decorator
     {
         /// <summary>
         /// Required designer variable.
